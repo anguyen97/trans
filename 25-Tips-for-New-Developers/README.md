@@ -12,7 +12,7 @@ Phần còn lại của bài viết này sẽ là những lời khuyên của t�
 
 ### 1\. Tìm lí do cho bản thân và ghi nhớ nó
 
-Nếu bạn muốn bắt đầu lập trình, phải có lý do cho điều đó. Cho dù bạn yêu thích việc code, thì bạn cũng muốn có một nghề nghiệp sinh lợi hơn, hoặc bạn đang làm một loạt công việc Excel và bạn muốn làm cho nó hiệu quả hơn. Theo dõi lý do đó; lập trình rất khó, và đôi khi bạn sẽ cảm thấy thất vọng. Bạn sẽ cần giữ cho lý do đó trong tâm trí để gắn bó với nó. Bạn có thể đặt một lưu ý dính trên máy tính của bạn, một lưu ý trên màn hình chủ của bạn, hoặc (như tôi) viết nó trên gương với một cây bút lông.
+Nếu bạn muốn bắt đầu lập trình, phải có lý do cho điều đó. Cho dù bạn yêu thích việc code, thì bạn cũng muốn có một nghề nghiệp sinh lợi hơn, hoặc bạn đang làm một loạt công việc Excel và bạn muốn làm cho nó hiệu quả hơn. Theo dõi lý do đó; lập trình rất khó, và đôi khi bạn sẽ cảm thấy thất vọng. Bạn sẽ cần giữ cho lý do đó trong tâm trí để gắn bó với nó. Bạn có thể đặt một lưu ý dính trên máy tính của bạn, một lưu ý trên màn hình chủ của bạn, hoặc (như tôi) viết nó trên gương với một bút xóa.
 
 ### 2\. Xây dựng nền tảng vững chắc
 
@@ -32,11 +32,11 @@ Liên quan đến điểm trước đó, rất có lợi nếu bạn viết chi 
 
 ### 6\. Bao quát chu kì học tập
 
-Nếu bạn đang học code như một công việc thứ hai, đặc biệt là nếu bạn đã rời khỏi lớp học một thời gian, học cách học hỏi sẽ là một phần quan trọng trong tiến trình của bạn. Có rất nhiều thăng trầm liên quan, rất tự nhiên! Tôi sẽ tự chằng dây chắc chắn cho tàu lượn siêu tốc đó trước khi bắt đầu.
+Nếu bạn đang học code như một công việc thứ hai, đặc biệt là nếu bạn đã rời khỏi lớp học một thời gian, học cách học hỏi sẽ là một phần quan trọng trong tiến trình của bạn. Có rất nhiều thăng trầm liên quan, rất tự nhiên! Tôi nên yêu thích guồng quay học tập đó trước khi bắt đầu.
 
 ### 7\. Khởi đầu với các tài nguyên miễn phí
 
-Có cả ngàn lẻ một nguồn tài nguyên để học cách viết code. Một số là miễn phí, và một số phải trả tiền. Tôi sẽ bắt đầu với các tài nguyên miễn phí, đảm bảo bạn thích viết code, và sau đó, bạn có thể nghĩ đến việc chuyển sang tài nguyên trả phí hoặc thậm chí là bootcamp. Tôi có một bài viết về tài nguyên mã miễn phí yêu thích của tôi [ở đây](https://zen-of-programming.com/favorite-free-resources).
+Có cả triệu nguồn tài nguyên để học cách viết code. Một số là miễn phí, và một số phải trả tiền. Tôi sẽ bắt đầu với các tài nguyên miễn phí, đảm bảo bạn thích viết code, và sau đó, bạn có thể nghĩ đến việc chuyển sang tài nguyên trả phí hoặc thậm chí là bootcamp. Tôi có một bài viết về tài nguyên mã miễn phí yêu thích của tôi [ở đây](https://zen-of-programming.com/favorite-free-resources).
 
 ### 8\. Tìm chỗ thích hợp của bạn
 
@@ -56,7 +56,7 @@ Mọi người đều học khác nhau - cho dù điều đó có nghĩa bạn l
 
 ### 12\. Nỗ lực, nhưng đừng cố quá
 
-Nỗ lực một chút khi bạn đang học là thực sự quan trọng để bạn có thể tự giải quyết vấn đề và tìm câu trả lời bằng cách sử dụng các tài nguyên đã có. Như đã nói, nó có thể trở nên không hiệu quả và mất khả năng nếu với một vấn đề quá lâu. Sau một vài giờ, hãy liên hệ với ai đó để được trợ giúp!
+Nỗ lực một chút khi bạn đang học là thực sự quan trọng để bạn có thể tự giải quyết vấn đề và tìm câu trả lời bằng cách sử dụng các tài nguyên đã có. Như đã nói, nó có thể trở nên không hiệu quả và khiến bạn mất động lức nếu vấn đề quá lâu. Sau một vài giờ, hãy liên hệ với ai đó để được trợ giúp!
 
 ### 13\. Thoải mái với thất bại
 
@@ -72,11 +72,11 @@ Không có câu trả lời đúng cho ngôn ngữ lập trình nào cần học
 
 ### 16\. Bạn không cần phải biết tất cả mọi thứ
 
-Chắc chắn 100% không ai có thể biết tất cả mọi thứ về lập trình. Không ai biết mọi ngôn ngữ lập trình, mọi phương pháp duy nhất ở đó, mọi thư viện và khung công tác, hoặc giải pháp hoàn hảo cho mọi vấn đề. Đừng lo lắng về việc học tất cả mọi thứ, chỉ cần tập trung vào những gì bạn biết và mở rộng điều đó.
+Chắc chắn 100% không ai có thể biết tất cả mọi thứ về lập trình. Không ai biết mọi ngôn ngữ lập trình, mọi phương pháp duy nhất ở đó, mọi thư viện và framework, hoặc giải pháp hoàn hảo cho mọi vấn đề. Đừng lo lắng về việc học tất cả mọi thứ, chỉ cần tập trung vào những gì bạn biết và mở rộng điều đó.
 
-### 17\. Độ sâu trên bề rộng
+### 17\. Hiểu sâu hơn biết rộng
 
-Học một điều thật sâu là tốt hơn là học một chút về rất nhiều thứ, đặc biệt là lúc đầu. Kiến thức chuyên sâu đó sẽ tiếp tục và làm cho việc học điều tiếp theo dễ dàng hơn. Che chắn lại, để bạn không bị cám dỗ để bỏ những gì bạn đang học và chuyển sang một cái gì đó mới.
+Học một điều thật sâu là tốt hơn là học một chút về rất nhiều thứ, đặc biệt là lúc đầu. Kiến thức chuyên sâu đó sẽ tiếp tục và làm cho việc học điều tiếp theo dễ dàng hơn. Đặt mình ở vị trí 1 người khiếm thị, để bạn không bị cám dỗ để bỏ những gì bạn đang học và chuyển sang một cái gì đó mới.
 
 ### 18\. Tập trung vào căn bản trước
 
@@ -88,11 +88,11 @@ Giải quyết vấn đề là cơ sở đằng sau lập trình! Trở nên t�
 
 ### 20\. Học cách nghiên cứu
 
-Một trong những điều lớn nhất để tìm hiểu là làm thế nào để tìm câu trả lời hay cho câu hỏi của bạn hoặc để tìm hiểu các tính năng mới của ngôn ngữ hoặc thư viện của bạn. Việc sử dụng Google rất quan trọng, vì vậy hãy tham gia cộng đồng và theo dõi các nguồn. Mẫu Google mà tôi thường sử dụng là "vấn đề ngôn ngữ / framwork / thư viện" trong ít từ nhất có thể. Vì vậy, "sắp xếp mảng JavaScript", "xoay phần tử CSS" hoặc "tạo router Vue".
+Một trong những điều lớn nhất để tìm hiểu là làm thế nào để tìm câu trả lời hay cho câu hỏi của bạn hoặc để tìm hiểu các tính năng mới của ngôn ngữ hoặc thư viện của bạn. Việc sử dụng Google rất quan trọng, vì vậy hãy tham gia cộng đồng và theo dõi các nguồn. Mẫu Google mà tôi thường sử dụng là "vấn đề ngôn ngữ / framework / thư viện" trong ít từ nhất có thể. Vì vậy, "sắp xếp mảng JavaScript", "xoay phần tử CSS" hoặc "tạo router Vue".
 
 ### 21\. Build các dự án mà bạn yêu thích
 
-Khi bạn đang học, bạn sẽ xây dựng các dự án khác nhau để thực hành (và thể hiện) các kỹ năng của bạn. Chọn ý tưởng dự án thú vị với bạn; bạn sẽ có nhiều khả năng để hoàn thành chúng và muốn đưa công việc vào chúng. Hoàn thành các dự án đó. Một vài dự án thành công thực sự tốt là cách ấn tượng hơn nhiều so với một lớn chỉ hoàn thành một nửa!
+Khi bạn đang học, bạn sẽ xây dựng các dự án khác nhau để thực hành (và thể hiện) các kỹ năng của bạn. Chọn ý tưởng dự án thú vị với bạn; bạn sẽ có nhiều khả năng để hoàn thành chúng và muốn đưa công việc vào chúng. Hoàn thành các dự án đó. Một vài dự án thành công thực sự tốt là cách ấn tượng hơn nhiều so với nhiều dự án nhưng chỉ hoàn thành một nửa!
 
 ### 22\. So sánh bạn với chỉ bản thân bạn
 
@@ -112,6 +112,6 @@ Lập trình thực sự tuyệt vời vì bạn có thể xây dựng mọi th�
 
 > Những người trong chúng ta có công việc viết phần mềm là vô cùng may mắn. Xây dựng phần mềm là một niềm vui vô tội bởi vì chúng ta sử dụng năng lượng sáng tạo của mình để hoàn thành công việc. Chúng ta đã sắp xếp cuộc sống của mình để có cả hai cách; chúng ta có thể tận hưởng hành động thuần túy của viết code trong kiến thức chắc chắn rằng code chúng ta viết đã sử dụng. Chúng ta sản xuất những thứ quan trọng. Chúng ta là những người thợ thủ công hiện đại, cấu trúc xây dựng tạo nên hiện thực ngày nay và không kém gì thợ xây hoặc  xây dựng cầu, chúng ta tự hào về thành tích của mình.
 > 
-> Điều này tất cả các lập trình viên đều chia sẻ, từ những người mới nhiệt tình nhất đến người cao tuổi đã mệt mỏi, dù làm việc với công ty startup Internet có trọng lượng nhẹ nhất hay doanh nghiệp cố định lâu đời nhất. Chúng ta muốn làm công việc tốt nhất của chúng ta. Chúng ta muốn công việc của chúng ta có ý nghĩa. Chúng ta muốn có niềm vui trên đường đi.
+> Điều này tất cả các lập trình viên đều chia sẻ, từ những người mới nhiệt tình nhất đến người cao tuổi đã mệt mỏi, dù làm việc với công ty startup mới hay doanh nghiệp cố định lâu đời nhất. Chúng ta muốn làm công việc tốt nhất của chúng ta. Chúng ta muốn công việc của chúng ta có ý nghĩa. Chúng ta muốn có niềm vui trên đường đi.
 > 
 > **Sandi Metz**
